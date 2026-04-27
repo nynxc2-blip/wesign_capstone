@@ -12,7 +12,7 @@ export default function Tutorials() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
           {/* Beginner Card */}
           <div className="bg-black bg-opacity-60 rounded-xl border border-[#e99b63]/30 p-8 shadow-lg hover:shadow-[0_0_20px_rgba(233,155,99,0.3)] transition-all duration-300">
-            <h2 className="text-2xl font-semibold mb-6 tracking-wider" style={{ color: "#CAB87E" }}>🥳 Beginner Level</h2>
+            <h2 className="text-2xl font-semibold mb-6 tracking-wider" style={{ color: "#CAB87E" }}>🥳 Pagsisimula</h2>
             <ul className="space-y-4 text-gray-300">
               <li>
                 <a href="https://www.youtube.com/watch?v=36GlmDTYs6s" target="_blank" rel="noopener noreferrer" 
@@ -52,7 +52,7 @@ export default function Tutorials() {
 
           {/* Intermediate Card */}
           <div className="bg-black bg-opacity-60 rounded-xl border border-[#e99b63]/30 p-8 shadow-lg hover:shadow-[0_0_20px_rgba(233,155,99,0.3)] transition-all duration-300">
-            <h2 className="text-2xl font-semibold mb-6 tracking-wider" style={{ color: "#CAB87E" }}>⚡ Intermediate Level</h2>
+            <h2 className="text-2xl font-semibold mb-6 tracking-wider" style={{ color: "#CAB87E" }}>⚡ Antas 2</h2>
             <ul className="space-y-4 text-gray-300">
               <li>
                 <a href="https://www.youtube.com/watch?v=BuGUnvUSAZg" target="_blank" rel="noopener noreferrer" 
